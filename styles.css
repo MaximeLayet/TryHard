@@ -1,0 +1,27 @@
+@font-face
+{
+font-family:'Oldlondon';
+src:  url(CSS/OldLondon.ttf) format("truetype"),
+      url(CSS/OldLondonAlternate.ttf) format("truetype");       
+}
+
+body
+{
+    font-family: 'Oldlondon', sans-serif;
+    color: white;
+    background-color: black;
+}
+
+/*HeaderDesktop*/
+
+header
+{
+    border-bottom: whitesmoke 2px solid;
+}
+
+h1
+{
+    display: flex;
+    justify-content: space-around;
+    font-size: 6rem;
+}

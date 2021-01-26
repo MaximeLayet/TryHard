@@ -1,0 +1,11 @@
+@font-face
+{
+font-family:'Raleway';
+src:  url(images/police/Raleway-VariableFont_wght.ttf) format("truetype"),
+      url(images/police/Raleway-Italic-VariableFont_wght.ttf) format("truetype");       
+}
+
+body
+{
+    font-family: 'Raleway', sans-serif;
+}
